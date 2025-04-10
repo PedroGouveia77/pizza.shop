@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://logospng.org/download/tailwind-css/tailwind-css-512.png" height="100" alt="Tailwind CSS Logo" />
+  <img src="https://logospng.org/download/tailwind-css/tailwind-css-512.png" height="400" alt="Tailwind CSS Logo" />
   <h1>pizza.shop</h1>
   <p>Aplicação moderna para gestão de pizzarias, com autenticação, painel administrativo e gerenciamento de perfil.</p>
 </div>
